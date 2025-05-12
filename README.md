@@ -1,5 +1,12 @@
 
 ## Profile
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cutekang&show_icons=true)
+<br />
+### 🎨 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cutekang&layout=compact)
+
 📞 **Email** | rkddl94@gmail.com <br />
 <br />
 ✉ **Phone** | 010-5473-2969 <br />
@@ -7,12 +14,6 @@
 ✏️ **BLOG** | https://cutekang.tistory.com/
 <br />
 <br />
-
-### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=cutekang&show_icons=true)
-<br />
-### 🎨 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cutekang&layout=compact)
 
 <!--
 **cutekang/cutekang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
